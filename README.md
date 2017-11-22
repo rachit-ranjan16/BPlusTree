@@ -46,4 +46,4 @@ First Line contains order of the tree.
 ## Remarks
 - Degree 3 B+Trees are functional without any hiccups
 - Higher Degree B+Trees inserts are prone to failure
-- Working on squashing the bugs and packagaing as a jar
+- Working on squashing the bugs and packaging as a jar
