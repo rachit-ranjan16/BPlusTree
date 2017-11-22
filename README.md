@@ -39,8 +39,8 @@ First Line contains order of the tree.
 
 ## Execution
 - Currently executed on from the terminal using the provided **makefile**
-    `$>make
-     $>java treesearch input_file.txt`
+    `$>make`
+     `$>java treesearch input_file.txt`
 - Alternatively all the java files in `~/src/main/java/` can be compiled individually and executed using the above command
 
 ## Remarks
